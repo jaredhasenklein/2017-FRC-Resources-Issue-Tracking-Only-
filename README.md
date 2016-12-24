@@ -12,8 +12,10 @@ What should you report?
   * Feature requests or suggestions
   * Unclear instructions/utilization
   * Etc.
+
 ****************************************************
 ****************************************************
+
 How to report:
   1. Navigate to the "Issues" tab
   2. Click the green "New Issue" button
